@@ -1,0 +1,16 @@
+com/foodapp/MainActivity.java
+ com.foodapp.MainActivity
+com/foodapp/BuildConfig.java
+ com.foodapp.BuildConfig
+com/foodapp/MainApplication.java
+ com.foodapp.MainApplication
+ com.foodapp.MainApplication$1
+com/foodapp/SplashActivity.java
+ com.foodapp.SplashActivity
+com/foodapp/ReactNativeFlipper.java
+ com.foodapp.ReactNativeFlipper
+ com.foodapp.ReactNativeFlipper$1
+ com.foodapp.ReactNativeFlipper$2
+ com.foodapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
